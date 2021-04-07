@@ -8,4 +8,4 @@ This design is one my most used 3D printed objects which actually gives me a goo
 
 It is reinforced to give full strength in many directions but to give flexibility when It is need.
 
-![alt text]( "FreeCad View")
+![alt text](https://github.com/Imejpul/3DPrinting/blob/main/04_Deslizaderas/KneeSliderHolder.png "FreeCad View")
