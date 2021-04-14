@@ -6,4 +6,4 @@ You should print this piece with a good reinforcement (>40% infill and "Gyroid" 
 
 You can find the leg used here: https://www.leroymerlin.es/fp/15939861/pata-fija-de-acero-negro-70-cm
 
-![alt text](https://github.com/Imejpul/3DPrinting/blob/main/11_BaseBandeja3d/WoodPlatformBase.png "FreeCad View")
+![alt text](https://github.com/Imejpul/3DPrinting/blob/main/12_RuedasMesa3D/WheelAdaptor.png "FreeCad View")
