@@ -6,4 +6,4 @@ My old Yamaha had its fuel tank logo broken so I decided try to doing something 
 
 Check the detail picture to see what it looks like when it is placed on the motorcycle!
 
-![alt text](https://github.com/Imejpul/3DPrinting/blob/main/15_PiezaPerchero/CoatRack.png "FreeCad View")
+![alt text](https://github.com/Imejpul/3DPrinting/blob/main/16_FuelTankLogoSR/SR250FuelTankLogo.png "FreeCad View")
