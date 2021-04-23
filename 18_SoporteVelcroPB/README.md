@@ -5,4 +5,4 @@ so I don't need a wiring through the motorcycle chassis from the battery to my h
 
 Check the detail picture to view the kind of assembly made.
 
-![alt text](https://github.com/Imejpul/3DPrinting/blob/main/16_FuelTankLogoSR/SR250FuelTankLogo.png "FreeCad View")
+![alt text](https://github.com/Imejpul/3DPrinting/blob/main/18_SoporteVelcroPB/PowerBankHolder.png "FreeCad View")

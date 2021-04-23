@@ -4,4 +4,4 @@ I needed a guide piece to my old Yamaha motorcycle clutch cable so I designed th
 
 Check the detail picture to see what it looks like when it is placed on the motorcycle!
 
-![alt text](https://github.com/Imejpul/3DPrinting/blob/main/16_FuelTankLogoSR/SR250FuelTankLogo.png "FreeCad View")
+![alt text](https://github.com/Imejpul/3DPrinting/blob/main/03_Gu%C3%ADaCableEmbragueSR/ClutchCableGuide.png "FreeCad View")
