@@ -4,4 +4,4 @@ My parents in law needed a replacement piece for their kitchen cabinet. They wer
 
 Take a look to the detail picture to figure out the kind of piece and its function.
 
-![alt text](https://github.com/Imejpul/3DPrinting/blob/main/16_FuelTankLogoSR/SR250FuelTankLogo.png "FreeCad View")
+![alt text](https://github.com/Imejpul/3DPrinting/blob/main/14_PiezaCocinaSuegros/KitchenCabinetPiece.png "FreeCad View")
