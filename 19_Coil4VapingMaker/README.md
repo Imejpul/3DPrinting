@@ -8,4 +8,6 @@ I desingned all the jig to use it with the Bosch drill model PSR 14,4 LI-2 (the 
 
 The tolerances of the holes for aluminum profile are very tight so make sure your printer is well calibrated enough.
 
+Please refer the detailed pictures to better understand the design!
+
 ![alt text](https://github.com/Imejpul/3DPrinting/blob/main/19_Coil4VapingMaker/Coil4VapingMaker.png "FreeCad View")
