@@ -6,7 +6,7 @@ I started from some basic designs of clapton jig from [cults3d](https://cults3d.
 
 I desingned all the jig to use it with the Bosch drill model PSR 14,4 LI-2 (the drill that my friend owns)
 
-The tolerances of the holes for aluminum profile are very tight so make sure your printer is well calibrated enough.
+The tolerances of the holes for aluminum profile are very tight so make sure your printer is well calibrated.
 
 Please refer the detailed pictures to better understand the design!
 
